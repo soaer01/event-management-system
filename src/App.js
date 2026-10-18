@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import PrivateRoute from './components/PrivateRoute';
 import Home from './pages/Home';
 import Details from './pages/Details';
-import MyBookings from './pages/MyBookings';
+import MyBookings from './pages/Bookings';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 

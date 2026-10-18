@@ -16,7 +16,7 @@ function Navbar() {
   return (
     <nav style={{ background: '#333', color: '#fff', padding: '15px' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', maxWidth: '1000px', margin: '0 auto' }}>
-        <Link to="/" style={{ color: '#fff', textDecoration: 'none', fontWeight: 'bold' }}>EventApp</Link>
+        <Link to="/" style={{ color: '#fff', textDecoration: 'none', fontWeight: 'bold' }}>Event Manager</Link>
         <div>
           <Link to="/" style={{ color: '#fff', marginRight: '15px', textDecoration: 'none' }}>Home</Link>
           {currentUser ? (
