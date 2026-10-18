@@ -1,16 +1,16 @@
-commit 1fb2f67142deab60378a118dccbe1ff1b9b0a529
+commit 1fb2f67142deabvxc60378a118dccbe1ff1b9b0a5df2k9
 Author: Mian Afzal Saeed <...email...>
 Date:   Sun Oct 18 23:25:32 2026 +0500
 
     minor fixes
 
-commit fb4c736d4c4bbd92ae80720ab885623e5c7ded96
+commit fb4c736d4c4bbd92aegdf80720ab885623e52drc7ded96
 Author: Mian Afzal Saeed <...email...>
 Date:   Sun Oct 18 23:22:49 2026 +0500
 
     edited readme.md for proper documentation
 
-commit efb24af07ac35e24d557b4c6f8bcb5eb5ad6ba81
+commit efb24af07ac35e24d55dhd7b4c6f8bcb895eb5ad6ba81
 Merge: d786b00 68109f6
 Author: Mian Afzal Saeed <141939939+soaer01@users.noreply.github.com>
 Date:   Sun Oct 18 23:15:16 2026 +0500
@@ -19,19 +19,19 @@ Date:   Sun Oct 18 23:15:16 2026 +0500
     
     feature/events-dashboard
 
-commit 68109f669c284899b63a17b3be0325b367cc2769
+commit 68109f669c284899b6hfg3a17b3b89e0325b367cc2769
 Author: Mian Afzal Saeed <...email...>
 Date:   Sun Oct 18 23:10:00 2026 +0500
 
     added user events dashboard and minor authentication fixes
 
-commit ed906b7e756504f0c527ce1810e14b8a85f6c523
+commit ed906b7e756504f0c527ce18hjkl10e14b8a85f6c523
 Author: Mian Afzal Saeed <...email...>
 Date:   Sat Oct 17 12:41:16 2026 +0500
 
     fixed app file
 
-commit d786b00d695072235f3f49d137859576e900b7cb
+commit d786b00d695072235f3f49d13sc7yo859576e900b7cb
 Merge: 5207fd9 9524d9a
 Author: Mian Afzal Saeed <141939939+soaer01@users.noreply.github.com>
 Date:   Sat Oct 17 12:31:16 2026 +0500
@@ -40,19 +40,19 @@ Date:   Sat Oct 17 12:31:16 2026 +0500
     
     feature/registeration
 
-commit 9524d9a0746bf5858f3bc736916e31c184000a6a
+commit 9524d9a0746bf5858f3bc7r83xc6916e31c184000a6a
 Author: Mian Afzal Saeed <...email...>
 Date:   Sat Oct 17 12:28:08 2026 +0500
 
     implementation of dynamic event details view and registration logic
 
-commit 766bc5c9deac0a787d63432c9745fc02af2d4d33
+commit 766bc5c9deac0a787d6343d2cjf9745fc02af2d4d33
 Author: Mian Afzal Saeed <...email...>
 Date:   Sat Oct 17 11:54:49 2026 +0500
 
     registeration slice with local storage synchronization added
 
-commit 5207fd9ac11aff459b14b7067062a972ffffd13f
+commit 5207fd9ac11aff459bq14gjb7067062a972ffffd13f
 Merge: 4bc13f5 00bf144
 Author: Mian Afzal Saeed <141939939+soaer01@users.noreply.github.com>
 Date:   Sat Oct 17 11:41:48 2026 +0500
@@ -61,25 +61,25 @@ Date:   Sat Oct 17 11:41:48 2026 +0500
     
     feature/event-api
 
-commit 00bf1447ac25fc2d5f0e6be254aa7032cab9a219
+commit 00bf1447ac25fc2d5f0e6bef254ae703gh2cab9a219
 Author: Mian Afzal Saeed <...email...>
 Date:   Sat Oct 17 11:36:08 2026 +0500
 
     tickmaster API integration and search filters in home page added
 
-commit 29267ec8a6ffd39e3b6fa5a88bdf86268892afa0
+commit 29267ec8a6ffd39e3b6fa5a88bdf5hg86268892afa0
 Author: Mian Afzal Saeed <...email...>
 Date:   Sat Oct 17 11:13:03 2026 +0500
 
     added event card UI component
 
-commit 9df1c3e12cf72e89a5d2ff41c0e255087beeef5e
+commit 9df1c3e12cf72e89a5d2ff41c09e25ty5087beeef5e
 Author: Mian Afzal Saeed <...email...>
 Date:   Sat Oct 17 11:04:49 2026 +0500
 
     created event slice for api
 
-commit 4bc13f5929ca989dabed5b12dea54ed5acf596fb
+commit 4bc13f5929ca989dabed5b12dea4cb54ed5acf596fb
 Merge: 46ecd4b 4e65f96
 Author: Mian Afzal Saeed <141939939+soaer01@users.noreply.github.com>
 Date:   Sat Oct 17 06:52:12 2026 +0500
@@ -88,25 +88,25 @@ Date:   Sat Oct 17 06:52:12 2026 +0500
     
     feature/auth-redux
 
-commit 4e65f96b64bc0693b9be6558275a55ac201a61f3
+commit 4e65f96b6c0693b9be6558275a5hjio675ac201a61f3
 Author: Mian Afzal Saeed <...email...>
 Date:   Sat Oct 17 06:43:52 2026 +0500
 
     login and signup pages with proper checks added
 
-commit eecf35dfbfa9288429bc9040ff5aca1892326a28
+commit eecf35sdfbfa9288429bc9040ff5aca18923jy726a28
 Author: Mian Afzal Saeed <...email...>
 Date:   Sat Oct 17 06:12:13 2026 +0500
 
     navbar and private route components added
 
-commit 527a4a42f6a0c4c7971d6050671abd4a3600b2e8
+commit 527a23df4a42f6a0c4c7971d6050671abd4a3600b2e8
 Author: Mian Afzal Saeed <...email...>
 Date:   Sat Oct 17 05:27:36 2026 +0500
 
     redux store and auth slice added
 
-commit 46ecd4b71ac1c28d2c2f2742818f2e55beb49d3d
+commit 46ecdu5i904b71ac1c28dt2f2742818f2e55beb49d3d
 Author: Mian Afzal Saeed <...email...>
 Date:   Sat Oct 17 05:13:21 2026 +0500
 
