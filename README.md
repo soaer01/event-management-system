@@ -17,7 +17,7 @@ A simple React web app built using Redux Toolkit and the Ticketmaster Discovery 
 ## Setup & Run
 1. Clone the repo and install dependencies:
    ```bash
-   git clone [https://github.com/soaer01/event-management-system.git](https://github.com/soaer01/event-management-system.git)
+   git clone https://github.com/soaer01/event-management-system.git
    cd event-management-system
    npm install
    ```
